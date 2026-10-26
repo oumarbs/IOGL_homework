@@ -1,12 +1,12 @@
 # IOGL Homework : fête foraine de nuit
 
-Scène 3D en OpenGL 3.3 (C++ / GLSL) faite à partir du code de la dernière leçon (IOGL-homework).
+Scène 3D en OpenGL 3.3.
 Une petite fête foraine la nuit : un manège avec des lapins, un stand, une piste de bowling, des guirlandes
 et un feu d'artifice. Au lancement la caméra fait une visite automatique de la scène (environ 55 s, en boucle).
 
 **Vidéo (compilation + visite virtuelle) :** https://1drv.ms/f/c/18aa5be2da13fabc/IgBZqhG4nIV2Q7m_t2ntppWZAWGlF1ZSyFUTmQeUunLU6Bw?e=tsc6S3
 
-**Auteur :** Sall Oumar
+
 
 - `main.cpp` : fenêtre, boucle de rendu, clavier/souris, points de passage de la visite
 - `Scene.cpp/.h` : chargement des modèles, placement des objets, animations, lumières
